@@ -9,3 +9,5 @@ System.Console.WriteLine($"Here is info from the text file 👉 {text}!");
 
 System.Console.WriteLine("Hej Kevin!");
 System.Console.WriteLine("Hello master Yoda!");
+
+System.Console.WriteLine("Test commit via TERMINAL");
