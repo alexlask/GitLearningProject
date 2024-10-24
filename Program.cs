@@ -6,3 +6,5 @@ Console.WriteLine("I like pandas!");
 
 string text = System.IO.File.ReadAllText("panda-info.txt");
 System.Console.WriteLine($"Here is info from the text file 👉 {text}!");
+
+System.Console.WriteLine("Hej Kevin!");
